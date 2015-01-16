@@ -1,3 +1,8 @@
+{-
+    Ideia do `Rodrigo Madera`, ele fez uma versão em C++ (https://github.com/madera/Schedulator/blob/master/schedulator.cxx)
+    então resolvi fazer a minha versão em 
+-}
+
 import Control.Monad
 
 data Dia        = SEG | TER | QUA | QUI | SEX | SAB | DOM deriving (Eq, Show)
