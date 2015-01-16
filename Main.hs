@@ -1,6 +1,9 @@
 {-
-    Ideia do `Rodrigo Madera`, ele fez uma versão em C++ (https://github.com/madera/Schedulator/blob/master/schedulator.cxx)
-    então resolvi fazer a minha versão em 
+    Ideia do `Rodrigo Madera`, que fez uma versão em C++11:
+        https://github.com/madera/Schedulator/blob/master/schedulator.cxx
+    Então resolvi fazer a minha versão em Haskell, pra treinar mesmo ^^
+    To aceitando qualquer tipo de feedback, já que sou novo em linguagens funcionais e meu código provavelmente esteja meio sujo...
+    Valeu!
 -}
 
 import Control.Monad
